@@ -13,3 +13,5 @@ main_simulation.m
 - Trajectory simulation
 
 Author: Femi Olajide-Owoyomi
+
+[![DOI](https://zenodo.org/badge/1218643763.svg)](https://doi.org/10.5281/zenodo.19703665)
